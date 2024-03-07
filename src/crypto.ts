@@ -202,4 +202,3 @@ export async function symDecrypt(
   );
   return new TextDecoder().decode(decrypted);
 }
-
